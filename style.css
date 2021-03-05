@@ -30,8 +30,8 @@
   }
   
   @media (max-width: 425px) {
-    .img {
-      width: 20px;
+    img {
+      width: 70%;
     }
   }
    
